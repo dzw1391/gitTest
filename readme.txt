@@ -1,2 +1,3 @@
 this is a git test.
-duzhiwei
+duzhiwei.
+this file is changed.
